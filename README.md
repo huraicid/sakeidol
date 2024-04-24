@@ -7,6 +7,8 @@
 - [日本酒の一覧](#日本酒の一覧)
   - [シンデレラガールズ](#シンデレラガールズ)
     - [Cute](#cute)
+      - [小日向美穂](#小日向美穂)
+        - [富久長 純米吟醸 美穂（びほ）](#富久長-純米吟醸-美穂びほ)
       - [白菊ほたる](#白菊ほたる)
         - [大典白菊（たいてんしらぎく） サンライズ・ピンク 純米吟醸（岡山県/白菊酒造）](#大典白菊たいてんしらぎく-サンライズピンク-純米吟醸岡山県白菊酒造)
     - [Cool](#cool)
@@ -37,11 +39,18 @@
 # 日本酒の一覧
 ## シンデレラガールズ
 ### Cute
+#### 小日向美穂
+##### 富久長 純米吟醸 美穂（びほ）
+<img src="img\biho.jpg" style="width: 240px"></img>
+- 製造者：[今田酒造本店（広島県東広島市）](https://fukucho.jp/)
+- 呑んだ日: 2024/4/21
+- 製品URL: [なし](https://fukucho.jp/products/biho?variant=40806434832559)
+
 #### 白菊ほたる
 ##### 大典白菊（たいてんしらぎく） サンライズ・ピンク 純米吟醸（岡山県/白菊酒造）
 <img src="img\shiragiku.jpg" style="width: 240px"></img>
 - 製造者：[白菊酒造（岡山県高梁市）](https://www.shiragiku.com/)
-- 呑んだ日:2024/4/11
+- 呑んだ日: 2024/4/11
 - 製品URL: なし
 
 ---
@@ -50,7 +59,7 @@
 ##### 出雲富士（いずもふじ） 純米吟醸 超辛口 青ラベル（島根県/富士酒造）
 <img src="img\takafuji.jpg" style="width: 240px"></img>
 - 製造者：[富士酒造（島根県出雲市）](https://izumofuji.com/)
-- 呑んだ日:2024/4/19
+- 呑んだ日: 2024/4/19
 - 製品URL: https://izumofuji.com/junmaiginjo-chokarakuchi/
 
 #### 速水奏
@@ -58,7 +67,7 @@
 <img src="img\kanade.jpg" style="width: 240px"></img>
 - 製造者：株式会社 原本店
     - 公式HPは無し、[広島県酒造組合のページ](https://hirosake.org/app/service?brewery=143)
-- 呑んだ日:2024/4/19
+- 呑んだ日: 2024/4/19
 - 製品URL: なし
 
 ---
@@ -67,5 +76,5 @@
 ##### 花巴（はなともえ） 四段生酒（奈良県/美吉野酒造）
 <img src="img\hanatomoe.jpg" style="width: 240px"></img>
 - 製造者：[美吉野酒造（奈良県吉野郡吉野町）](https://www.hanatomoe.com/)
-- 呑んだ日:2024/4/11
+- 呑んだ日: 2024/4/11
 - 製品URL: https://www.hanatomoe.com/yodan-nama/
