@@ -104,7 +104,7 @@
 #### 諸星きらり
 ##### 喜楽里（きらり） 純米吟醸生原酒
 <img src="img\kirari.jpg" style="width: 240px"></img>
-- 製造者：[松尾酒店（和歌山県和歌山市）](https://www.iisake.net/)
+- 製造者：[高垣酒造（和歌山県有田郡有田川町）](https://takagakishuzo.com/)
 - 呑んだ日: 2025/1/11
 - 製品URL: https://www.iisake.net/shopdetail/000000002457/ct621/page1/recommend/
 
