@@ -31,6 +31,7 @@
         - [蓬莱鶴（ほうらいつる） 純米吟醸 奏 〜harmony〜（広島県/原本店）](#蓬莱鶴ほうらいつる-純米吟醸-奏-harmony広島県原本店)
       - [望月聖](#望月聖)
         - [極聖 荒走り 吟醸原酒（岡山県/宮下酒造）](#極聖-荒走り-吟醸原酒岡山県宮下酒造)
+        - [聖 純米大吟醸（群馬県/聖酒造）](#聖-純米大吟醸群馬県聖酒造)
     - [Passion](#passion)
       - [並木芽衣子](#並木芽衣子)
         - [明光（めいこう） 純米酒](#明光めいこう-純米酒)
@@ -145,10 +146,17 @@
 
 #### 望月聖
 ##### 極聖 荒走り 吟醸原酒（岡山県/宮下酒造）
-<img src="img\takafuji.jpg" style="width: 240px"></img>
+<img src="img\kiwami_hijiri_arabashiri.jpg" style="width: 240px"></img>
 - 製造者：[宮下酒造（岡山県中区）](https://www.msb.co.jp/)
 - 呑んだ日: 2024/7/29
 - 製品URL: https://www.msb.co.jp/product/919/
+
+##### 聖 純米大吟醸（群馬県/聖酒造）
+<img src="img\hijiri.jpg" style="width: 240px"></img>
+- 製造者：[宮下酒造（群馬県渋川市）](https://www.hijiri-sake.co.jp/)
+- 呑んだ日: 2024/10/26
+- 製品URL: https://www.hijiri-sake.co.jp/pages/shop
+  - 個別の商品ページは無し
 
 ---
 ### Passion
