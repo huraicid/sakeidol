@@ -68,48 +68,48 @@
 ### Cute
 #### 安斎都
 ##### 三宅酒造 三宅のみやこ 純米吟醸（岡山県/三宅酒造）
-<img src="img\miyako.jpg" style="width: 240px"></img>
+<img src="img/miyako.jpg" style="width: 240px"></img>
 - 製造者：[三宅酒造（岡山県総社市）](https://miyake-suifu.jp/)
 - 呑んだ日: 2024/7/7
 - 製品URL: https://wester-mall.westjr.co.jp/88393468-6bf0-4fda-87ce-87567eaf08b8.html
 
 #### 栗原ネネ
 ##### 五橋 ねね 発泡純米酒（山口県/酒井酒造）
-<img src="img\nene.jpg" style="width: 240px"></img>
+<img src="img/nene.jpg" style="width: 240px"></img>
 - 製造者：[酒井酒造（山口県岩国市）](https://www.gokyo-sake.co.jp/)
 - 呑んだ日: 2024/4/26
 - 製品URL: https://gokyo.shop-pro.jp/?pid=155885185
 
 #### 黒埼ちとせ
 ##### 千歳鶴 純米吟醸 きたしずく（北海道/日本清酒株式会社）
-<img src="img\chitosetsuru.jpg" style="width: 240px"></img>
+<img src="img/chitosetsuru.jpg" style="width: 240px"></img>
 - 製造者：[日本清酒株式会社（北海道札幌市）](https://nipponseishu.co.jp/chitosetsuru/)
 - 呑んだ日: 2024/5/11
 - 製品URL: なし
 
 #### 小日向美穂
 ##### 富久長 純米吟醸 美穂（びほ）（広島県/今田酒造）
-<img src="img\biho.jpg" style="width: 240px"></img>
+<img src="img/biho.jpg" style="width: 240px"></img>
 - 製造者：[今田酒造本店（広島県東広島市）](https://fukucho.jp/)
 - 呑んだ日: 2024/4/21
 - 製品URL: https://fukucho.jp/products/biho?variant=40806434832559
 
 #### 白菊ほたる
 ##### 大典白菊（たいてんしらぎく） サンライズ・ピンク 純米吟醸（岡山県/白菊酒造）
-<img src="img\shiragiku.jpg" style="width: 240px"></img>
+<img src="img/shiragiku.jpg" style="width: 240px"></img>
 - 製造者：[白菊酒造（岡山県高梁市）](https://www.shiragiku.com/)
 - 呑んだ日: 2024/4/11
 - 製品URL: なし
 
 ##### 大典白菊（たいてんしらぎく） 純米（岡山県/白菊酒造）
-<img src="img\shiragiku_omachi.jpg" style="width: 240px"></img>
+<img src="img/shiragiku_omachi.jpg" style="width: 240px"></img>
 - 製造者：[白菊酒造（岡山県高梁市）](https://www.shiragiku.com/)
 - 呑んだ日: 2024/5/12
 - 製品URL: https://shiragiku-shop.com/items/5f9a42afda019c3057b87d15
 
 #### 白雪千夜
 ##### 白雪純米ひやおろし（兵庫県/小西酒造）
-<img src="img\shirayuki.jpg" style="width: 240px"></img>
+<img src="img/shirayuki.jpg" style="width: 240px"></img>
 - 製造者：[小西酒造（兵庫県伊丹市）](https://www.konishi.co.jp/)
 - 呑んだ日: 2024/11/2
 - 製品URL: https://www.konishi.co.jp/product/junmai/
@@ -117,7 +117,7 @@
 
 #### 月宮雅
 ##### 雅楽代（うたしろ）（新潟県/天領盃酒造）
-<img src="img\utashiro.jpg" style="width: 240px"></img>
+<img src="img/utashiro.jpg" style="width: 240px"></img>
 - 製造者：[天領盃酒造（新潟県佐渡市）](https://tenryohai.co.jp/)
 - 呑んだ日: 2024/7/5
 - 製品URL: https://tenryohai.co.jp/pages/utashiro-series-lineup
@@ -125,14 +125,14 @@
 
 #### 柳瀬美由紀
 ##### 御幸 大吟醸 冷酒（広島県/小泉本店）
-<img src="img\miyuki.jpg" style="width: 240px"></img>
+<img src="img/miyuki.jpg" style="width: 240px"></img>
 - 製造者：[小泉本店（広島県西区）](http://www2u.biglobe.ne.jp/~mi-yuki/)
 - 呑んだ日: 2024/11/6
 - 製品URL: なし
 
 #### 横山千佳
 ##### よこやま　純米吟醸　SILVER　超辛7（長崎県/重家酒造）
-<img src="img\yokoyama.jpg" style="width: 240px"></img>
+<img src="img/yokoyama.jpg" style="width: 240px"></img>
 - 製造者：[重家酒造（長崎県壱岐市）](https://www.omoyashuzo.com/)
 - 呑んだ日: 2024/6/9
 - 製品URL: https://www.omoyashuzo.com/product.html
@@ -142,7 +142,7 @@
 ### Cool
 #### 高垣楓
 ##### 高垣 純米酒（和歌山県/高垣酒造）
-<img src="img\takagaki.jpg" style="width: 240px"></img>
+<img src="img/takagaki.jpg" style="width: 240px"></img>
 - 製造者：[高垣酒造（和歌山県有田郡有田川町）](https://takagakishuzo.com/)
 - 呑んだ日: 2025/1/11
 - 製品URL: https://www.iisake.net/shopdetail/000000002450/
@@ -150,14 +150,14 @@
 
 #### 鷹富士茄子
 ##### 出雲富士（いずもふじ） 純米吟醸 超辛口 青ラベル（島根県/富士酒造）
-<img src="img\takafuji.jpg" style="width: 240px"></img>
+<img src="img/takafuji.jpg" style="width: 240px"></img>
 - 製造者：[富士酒造（島根県出雲市）](https://izumofuji.com/)
 - 呑んだ日: 2024/4/19
 - 製品URL: https://izumofuji.com/junmaiginjo-chokarakuchi/
 
 #### 速水奏
 ##### 蓬莱鶴（ほうらいつる） 純米吟醸 奏 〜harmony〜（広島県/原本店）
-<img src="img\kanade.jpg" style="width: 240px"></img>
+<img src="img/kanade.jpg" style="width: 240px"></img>
 - 製造者：株式会社 原本店
     - 公式HPは無し、[広島県酒造組合のページ](https://hirosake.org/app/service?brewery=143)
 - 呑んだ日: 2024/4/19
@@ -165,13 +165,13 @@
 
 #### 望月聖
 ##### 極聖 荒走り 吟醸原酒（岡山県/宮下酒造）
-<img src="img\kiwami_hijiri_arabashiri.jpg" style="width: 240px"></img>
+<img src="img/kiwami_hijiri_arabashiri.jpg" style="width: 240px"></img>
 - 製造者：[宮下酒造（岡山県中区）](https://www.msb.co.jp/)
 - 呑んだ日: 2024/7/29
 - 製品URL: https://www.msb.co.jp/product/919/
 
 ##### 聖 純米大吟醸（群馬県/聖酒造）
-<img src="img\hijiri.jpg" style="width: 240px"></img>
+<img src="img/hijiri.jpg" style="width: 240px"></img>
 - 製造者：[宮下酒造（群馬県渋川市）](https://www.hijiri-sake.co.jp/)
 - 呑んだ日: 2024/10/26
 - 製品URL: https://www.hijiri-sake.co.jp/pages/shop
@@ -181,7 +181,7 @@
 ### Passion
 #### 並木芽衣子
 ##### 明光（めいこう） 純米酒（和歌山県/名手酒造店、松尾酒店）
-<img src="img\meiko.jpg" style="width: 240px"></img>
+<img src="img/meiko.jpg" style="width: 240px"></img>
 - 製造者：[名手酒造店（和歌山県海南市）](https://kuroushi.co.jp/)、[松尾酒店（和歌山県和歌山市）](https://www.iisake.net/)
 - 呑んだ日: 2025/1/11
 - 製品URL: https://www.iisake.net/shopdetail/042003000003/
@@ -189,7 +189,7 @@
 
 #### 諸星きらり
 ##### 喜楽里（きらり） 純米吟醸生原酒（和歌山県/高垣酒造）
-<img src="img\kirari.jpg" style="width: 240px"></img>
+<img src="img/kirari.jpg" style="width: 240px"></img>
 - 製造者：[高垣酒造（和歌山県有田郡有田川町）](https://takagakishuzo.com/)
 - 呑んだ日: 2025/1/11
 - 製品URL: https://www.iisake.net/shopdetail/000000002457/ct621/page1/recommend/
@@ -197,14 +197,14 @@
 
 #### 村上巴
 ##### 花巴（はなともえ） 四段生酒（奈良県/美吉野酒造）
-<img src="img\hanatomoe.jpg" style="width: 240px"></img>
+<img src="img/hanatomoe.jpg" style="width: 240px"></img>
 - 製造者：[美吉野酒造（奈良県吉野郡吉野町）](https://www.hanatomoe.com/)
 - 呑んだ日: 2024/4/11
 - 製品URL: https://www.hanatomoe.com/yodan-nama/
 
 #### 龍崎薫
 ##### 美丈夫（びじょうぶ）薫（高知県/濱川酒造）
-<img src="img\kaoru.jpg" style="width: 240px"></img>
+<img src="img/kaoru.jpg" style="width: 240px"></img>
 - 製造者：[美吉野酒造（高知県安芸郡）](https://www.bijofu.jp/)
 - 呑んだ日: 2024/5/12
 - 製品URL: https://www.bijofu.jp/kaoru.html
